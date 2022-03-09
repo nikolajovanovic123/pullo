@@ -9,7 +9,7 @@ window.onload = function(){
         {
             "id" : 2,
             "name" : "Collection",
-            "link" : "Collection.html"
+            "link" : "collection.html"
         },
         {
             "id" : 3,
