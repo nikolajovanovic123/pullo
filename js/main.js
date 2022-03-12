@@ -8,19 +8,20 @@ window.onload = function(){
         },
         {
             "id" : 2,
-            "name" : "Collection",
-            "link" : "collection.html"
+            "name" : "Shop",
+            "link" : "shop.html"
         },
         {
             "id" : 3,
-            "name" : "Author",
-            "link" : "#"
+            "name" : "Cart",
+            "link" : "cart.html"
         },
         {
             "id" : 4,
-            "name" : "Contact",
-            "link" : "contact.html"
+            "name" : "Author",
+            "link" : "https://nikolajovanovic2001.github.io/portfolio1/"
         }
+        
 
     ];
     const menuDiv = document.getElementById('nav');
@@ -36,38 +37,11 @@ window.onload = function(){
     const slides=[
         {
             "id" : 1,
-            "name" : "Running Shoes",
-            "description" : "train with the best running boots",
+            "name" : "Pullo",
+            "description" : "The best online sneakers shop",
             "img" : {
                 "src" : "running-shoes.png",
                 "alt" : "running shoes"
-            }
-        },
-        {
-            "id" : 2,
-            "name" : "Football Shoes",
-            "description" : "train with the best football boots",
-            "img" : {
-                "src" : "footballboots1.png",
-                "alt" : "football shoes"
-            }
-        },
-        {
-            "id" : 3,
-            "name" : "Basketball Shoes",
-            "description" : "train with the best basketball boots",
-            "img" : {
-                "src" : "basketboots2.png",
-                "alt" : "basketball shoes"
-            }
-        },
-        {
-            "id" : 4,
-            "name" : "Tennis Shoes",
-            "description" : "train with the best tennis boots",
-            "img" : {
-                "src" : "tennisboots1.png",
-                "alt" : "tennis shoes"
             }
         }
     ];
@@ -86,8 +60,8 @@ window.onload = function(){
             <div class="banner_taital">
                 <h1 class="banner_text">New ${stavka2.name} </h1>
                 <p class="lorem_text">${stavka2.description}</p>
-                <button class="buy_bt"><a href="collection.html">Buy Now</a></button>
-                <button class="more_bt">See More</button>
+                <button class="buy_bt"><a href="shop.html">Buy Now</a></button>
+                <button class="more_bt"><a href="cart.html"> Order now</a></button>
             </div>
         </div>
         <div class="col-sm-5">
