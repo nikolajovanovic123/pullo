@@ -1,0 +1,448 @@
+[      
+    {
+
+        "id" : 1,
+        "name" : "NIKE AIR MAX VG-R",
+        "stars" :4, 
+        "price": {
+            "priceBeforeDiscount": "100",
+            "currentPrice": "80"
+        },
+        "gender" : "m",
+        "discount" : true,
+        "numbers" : [1,2,3,4],
+        "img":
+        {
+            "src" : "boots1.jpg"
+        },
+        "producerid": 1
+    },
+
+
+
+
+    {
+
+        "id" : 2,
+        "name" : "PUMA BMW MMS RS-FAST",
+        "stars" :5,
+        "price": {
+            "priceBeforeDiscount": "",
+            "currentPrice": "99"
+        },
+        "gender" : "m",
+        "discount" : false,
+        "numbers" : [1,3,4],
+        "img":
+        {
+            "src" : "PUMA-BMW-MMS-RS-FAST.jpg"
+        },
+        "producerid": 3
+    },
+
+
+
+
+    {
+
+        "id" : 3,
+        "name" : "PUMA WILD RIDER PICKUP",
+        "stars" :5,
+        "price": {
+            "priceBeforeDiscount": "100",
+            "currentPrice": "80"
+        },
+        "gender" : "m",
+        "discount" : true,
+        "numbers" : [1,2,3,4,5,6,7],
+        "img":
+        {
+            "src" : "PUMA-WILD-RIDER-PICKUP-M.jpg"
+        },
+        "producerid": 3
+
+    },
+
+
+
+
+    {
+
+        "id" : 4,
+        "name" : "NIKE AIR MAX VG-R",
+        "stars" :4,
+        "price": {
+            "priceBeforeDiscount": "",
+            "currentPrice": "75"
+        },
+        "gender" : "m",
+        "discount" : false,
+        "numbers" : [3,4,8],
+        "img":
+        {
+            "src" : "PATIKE-NIKE-AIR-MAX-VG-R-M.jpg"
+        },
+        "producerid": 3
+
+    },
+
+
+
+
+
+
+
+    {
+
+        "id" : 5,
+        "name" : "RESPONSE SUPER 2.0",
+        "stars" :5,
+        "price": {
+            "priceBeforeDiscount": "75",
+            "currentPrice": "65"
+        },
+        "gender" : "m",
+        "discount" : true,
+        "numbers" : [1,2,3,4],
+        "img":
+        {
+            "src" : "RESPONSE-SUPER.jpg"
+        },
+        "producerid": 2
+    },
+
+
+
+
+
+    {
+
+        "id" : 6,
+        "name" : "EQ21 RUN",
+        "stars" :5,
+        "price": {
+            "priceBeforeDiscount": "120",
+            "currentPrice": "95"
+        },
+        "gender" : "m",
+        "discount" : true,
+        "numbers" : [4,8],
+        "img":
+        {
+            "src" : "PATIKE-EQ21-RUN-M.jpg"
+        },
+        "producerid": 2
+
+    },
+
+
+
+
+
+
+
+    {
+
+        "id" : 7,
+        "name" : "10K",
+        "stars" :4,
+        "price": {
+            "priceBeforeDiscount": "",
+            "currentPrice": "55"
+        },
+        "gender" : "m",
+        "discount" : false,
+        "numbers" : [1,2,3,4,6],
+        "img":
+        {
+            "src" : "PATIKE-10K-M.jpg"
+        },
+        "producerid": 2
+
+    },
+
+
+
+
+    {
+
+        "id" : 8,
+        "name" : "REEBOK ROYAL HYPERIUM 2",
+        "stars" :5,
+        "price": {
+            "priceBeforeDiscount": "",
+            "currentPrice": "55"
+        },
+        "gender" : "m",
+        "discount": false,
+        "numbers" : [1,2,6,7],
+        "img":
+        {
+            "src" : "REEBOK-ROYAL-HYPERIUM-2.jpg"
+        },
+        "producerid": 4
+    },
+
+
+
+    {
+
+        "id" : 9,
+        "name" : "FLASHFILM TRAIN 2.0",
+        "stars" :5,
+        "discount" : true,
+        "price": {
+            "priceBeforeDiscount": "60",
+            "currentPrice": "40"
+        },
+        "gender" : "m",
+        "numbers" : [4,5,6,7],
+        "img":
+        {
+            "src" : "FLASHFILM-TRAIN.jpg"
+        },
+        "producerid": 4
+
+    },
+
+
+
+
+
+    {
+
+        "id" : 10,
+        "name" : "NIKE AIR MAX AXIS",
+        "stars" :5,
+        "discount" : true,
+        "price": {
+            "priceBeforeDiscount": "120",
+            "currentPrice": "90"
+        },
+        "gender" : "z",
+        "numbers" : [1,2],
+        "img":
+        {
+            "src" : "NIKE-AIR-MAX-AXIS.jpg"
+        },
+        "producerid": 1
+
+    },
+
+
+    {
+
+        "id" : 11,
+        "name" : "AIR MAX INVIGOR GG",
+        "stars" :5,
+        "discount" : true,
+        "price": {
+            "priceBeforeDiscount": "60",
+            "currentPrice": "40"
+        },
+        "gender" : "z",
+        "numbers" : [4,5,6,7,8],
+        "img":
+        {
+            "src" : "AIR-MAX-INVIGOR-GG.jpg"
+        },
+        "producerid": 1
+
+    },
+
+
+
+    {
+
+        "id" : 13,
+        "name" : "AIR MAX BOLT",
+        "stars" :5,
+        "discount" : false,
+        "price": {
+            "priceBeforeDiscount": "",
+            "currentPrice": "90"
+        },
+        "gender" : "z",
+        "numbers" : [4,5,6],
+        "img":
+        {
+            "src" : "AIR-MAX-BOLT.jpg"
+        },
+        "producerid": 1
+
+    },
+
+
+
+    {
+
+        "id" : 14,
+        "name" : "IR MAX VG-R",
+        "stars" :5,
+        "discount" : true,
+        "price": {
+            "priceBeforeDiscount": "120",
+            "currentPrice": "100"
+        },
+        "gender" : "z",
+        "numbers" : [4],
+        "img":
+        {
+            "src" : "IR-MAX-VG-R.jpg"
+        },
+        "producerid": 1
+
+    },
+
+
+    {
+
+        "id" : 15,
+        "name" : "ROYAL BB4500 HI STRAP",
+        "stars" :5,
+        "discount" : false,
+        "price": {
+            "priceBeforeDiscount": "",
+            "currentPrice": "55"
+        },
+        "gender" : "z",
+        "numbers" : [5,6],
+        "img":
+        {
+            "src" : "ROYAL-BB4500-HI-STRAP.jpg"
+        },
+        "producerid": 4
+
+    },
+
+
+    {
+
+        "id" : 16,
+        "name" : "ROYAL GLIDE RPLDBL",
+        "stars" :5,
+        "discount" : true,
+        "price": {
+            "priceBeforeDiscount": "65",
+            "currentPrice": "55"
+        },
+        "gender" : "z",
+        "numbers" : [2,3,5,6],
+        "img":
+        {
+            "src" : "ROYAL-GLIDE-RPLDBL.jpg"
+        },
+        "producerid": 4
+
+    },
+
+
+    {
+
+        "id" : 17,
+        "name" : "CRAZYCHAOS",
+        "stars" :5,
+        "discount" : false,
+        "price": {
+            "priceBeforeDiscount": "",
+            "currentPrice": "70"
+        },
+        "gender" : "z",
+        "numbers" : [1,2,6],
+        "img":
+        {
+            "src" : "CRAZYCHAOS.jpg"
+        },
+        "producerid": 2
+
+    },
+
+
+
+    {
+
+        "id" : 18,
+        "name" : "ADVANTAGE",
+        "stars" :5,
+        "discount" : true,
+        "price": {
+            "priceBeforeDiscount": "65",
+            "currentPrice": "55"
+        },
+        "gender" : "z",
+        "numbers" : [2,5],
+        "img":
+        {
+            "src" : "ADVANTAGE.jpg"
+        },
+        "producerid": 2
+
+    },
+
+
+
+    {
+
+        "id" : 19,
+        "name" : "HEDRA POP WN’S",
+        "stars" :5,
+        "discount" : true,
+        "price": {
+            "priceBeforeDiscount": "105",
+            "currentPrice": "90"
+        },
+        "gender" : "z",
+        "numbers" : [2,4,5],
+        "img":
+        {
+            "src" : "HEDRA-POP-WN’S.jpg"
+        },
+        "producerid": 3
+
+    },
+
+
+
+
+    {
+
+        "id" : 20,
+        "name" : "HEDRA CHAOS WN'S",
+        "stars" :5,
+        "discount" : false,
+        "price": {
+            "priceBeforeDiscount": "",
+            "currentPrice": "102"
+        },
+        "gender" : "z",
+        "numbers" : [2,5],
+        "img":
+        {
+            "src" : "HEDRA-CHAOS-WN'S.jpg"
+        },
+        "producerid": 3
+
+    },
+
+
+
+    {
+
+        "id" : 21,
+        "name" : "CRUISE RIDER METAL",
+        "stars" :5,
+        "discount" : true,
+        "price": {
+            "priceBeforeDiscount": "95",
+            "currentPrice": "70"
+        },
+        "gender" : "z",
+        "numbers" : [2],
+        "img":
+        {
+            "src" : "CRUISE-RIDER-METAL.jpg"
+        },
+        "producerid": 3
+
+    }
+]
