@@ -262,7 +262,7 @@ function getItemFromLocalStorage(name){
     }
 
 
-    if(url == "/" || url == "/shop.html"){
+    if(url == "/" || url == "/pullo/shop.html"){
         
         // dohvatanje podataka iz fajla products.json
         ajax("assets/products.json", function(result){
@@ -271,7 +271,7 @@ function getItemFromLocalStorage(name){
             
         });
     }
-    else{if(url == "/cart.html"){
+    else{if(url == "/pullo/cart.html"){
         let productsFromCart = getItemFromLocalStorage("cart");
 
         if(productsFromCart == null){
